@@ -5,6 +5,7 @@
 > Open-source, educational tracked rescue robot for disaster-response scenarios and student competitions.
 
 ## Team
+![KBL Rescue Team](media/kbl%20team%20illustration.png)
 KBL Rescue is a small independent student robotics team led by Ahmad Ferdows Ahmadi (computer science student).
 We build a tracked rescue robot based on the SZDoit TS-900 chassis for rough terrain and collapsed-structure simulations.
 
