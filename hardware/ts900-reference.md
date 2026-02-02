@@ -1,21 +1,22 @@
-# TS-900 Reference (Placeholder Specs)
+# TS-900 Reference (Common Variant Specs)
 
-This file collects placeholder specs from common product listings.
+This file collects common variant specs from product listings.
 Update every value once you measure your chassis.
 
-## Chassis Summary (Placeholder)
+## Chassis Summary (Common Variants)
 - Model: SZDoit TS-900 shock-absorbing tracked chassis
-- Approx size: 550 x 280 x 110 mm [Update with measured dimensions]
+- Dimensions: ~550 x 280 x 110 mm (L x W x H) [Update with measured dimensions]
 - Verified from our kit: [Add your measured dimensions here]
-- Approx weight: 3.6 kg (listing-dependent)
-- Approx design load: 5 kg (listing-dependent)
-- Frame: aluminum alloy
-- Tracks: plastic
-- Motors: 9V/12V DC motors with encoders (listing-dependent)
+- Weight: ~3.6–5.15 lbs (1.6–2.3 kg), listing-dependent
+- Load capacity: 5–15 kg (depends on motors, surface, and gearing)
+- Frame: metal (aluminum alloy/stainless steel)
+- Tracks: engineering plastic
+- Suspension: independent shock-absorbing suspension on each wheel
+- Motors: 4 x 12V DC high-torque with encoders (odometry feedback)
 
-## Example Listings
-- https://uquid.com/shop/product/szdoit-4wd-metal-large-tracked-tank-chassis-kit-shock-absorbing-crawler-robot-high-torque-motor-heavy-load-diy-4-drive-platform-color-gold-with-9v-motor-iRPoTDWVDBwup
-- [Add Amazon or AliExpress link]
+## Example Listings (Non-Official)
+- AliExpress: https://www.aliexpress.com/i/1005008651115318.html (12V shock absorption version)
+- Amazon: https://us.amazon.com/SZDoit-Absorption-Suspension-Raspberry-Education/dp/B0BYR9LDPQ
 
 ## Reference Models and Open Designs
 - https://howtomechatronics.com/projects/fully-3d-printed-tank-tracked-robot-platform/

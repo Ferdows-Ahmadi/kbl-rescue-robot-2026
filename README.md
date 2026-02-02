@@ -28,19 +28,25 @@ Why we chose it:
 - Metal frame for durability and payload capacity
 - Compatible with Arduino/Raspberry Pi integration
 
-Placeholder specs (verify and update with measured values):
-- Approx size: 550 x 280 x 110 mm [Update with measured dimensions]
-- Approx weight: 3.6 kg (listing-dependent)
-- Approx design load: 5 kg (listing-dependent)
-- Materials: aluminum alloy frame, plastic tracks
-- Motors: 9V/12V DC motors with encoders (listing-dependent)
+Common variant specs (verify and update with measured values):
+- Dimensions: ~550 x 280 x 110 mm (L x W x H) [Update with measured dimensions]
+- Weight: ~3.6–5.15 lbs (1.6–2.3 kg), listing-dependent
+- Load capacity: 5–15 kg (depends on motors, surface, and gearing)
+- Materials: metal frame (aluminum alloy/stainless steel), engineering plastic tracks
+- Suspension: independent shock-absorbing suspension on each wheel
+- Motors: 4 x 12V DC high-torque with encoders (odometry feedback)
 
-Example product listing (non-official):
-- https://uquid.com/shop/product/szdoit-4wd-metal-large-tracked-tank-chassis-kit-shock-absorbing-crawler-robot-high-torque-motor-heavy-load-diy-4-drive-platform-color-gold-with-9v-motor-iRPoTDWVDBwup
-[Add Amazon/AliExpress link if preferred]
+Why great for KBL Rescue:
+- Excellent for rough terrain (RoboCup-style collapsed-structure simulations)
+- Easy Arduino/Raspberry Pi integration
+- High payload for sensors and batteries
+
+Example product listings (non-official):
+- AliExpress: https://www.aliexpress.com/i/1005008651115318.html (12V shock absorption version)
+- Amazon: https://us.amazon.com/SZDoit-Absorption-Suspension-Raspberry-Education/dp/B0BYR9LDPQ
 
 ### CAD/Blueprints
-No official CAD/STEP/STL files are publicly available from the manufacturer. We will measure the chassis and create our own mounts, plates, and accessories.
+No official CAD/STEP/STL files are publicly available from the manufacturer. Measure your exact kit for custom mods and we will create our own mounts, plates, and accessories.
 
 ### Planned Custom Mods (Our Future STEP/STL)
 - Sensor mast and camera/LiDAR mounts
