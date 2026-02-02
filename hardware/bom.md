@@ -4,14 +4,14 @@
 | --- | --- | --- |
 | TS-900 tracked chassis kit | 1 | SZDoit TS-900 (shock-absorbing) |
 | DC motors with encoders | 4 | Often included with chassis; verify |
-| Motor driver | 2 | TBD (e.g., BTS7960, VNH5019) |
-| Microcontroller | 1 | Arduino / STM32 / TBD |
-| Compute board | 1 | Raspberry Pi / Jetson / TBD |
-| Battery | 1 | 3S/4S LiPo + BMS (TBD) |
+| Motor driver | 2 | BTS7960 43A H-bridge motor driver |
+| Microcontroller | 1 | Arduino Mega 2560 (motor control) |
+| Compute board | 1 | Raspberry Pi 4 Model B (4GB) |
+| Battery | 1 | 4S LiPo 14.8V 10Ah + BMS |
 | Power distribution | 1 | Fused power board or buck converters |
-| IMU (9-axis) | 1 | For attitude estimation (TBD model) |
-| Thermal camera | 1 | Victim detection (TBD model) |
-| RGB camera | 1 | Operator view / perception (TBD model) |
-| LiDAR | 1 | Mapping and obstacle detection (TBD model) |
-| Ultrasonic sensors | 4-8 | Close-range obstacle detection |
-| Fasteners | TBD | M3/M4 assorted |
+| IMU (9-axis) | 1 | ICM-20948 (attitude estimation) |
+| Thermal camera | 1 | MLX90640 (victim detection) |
+| RGB camera | 1 | Raspberry Pi Camera Module 3 |
+| LiDAR | 1 | RPLIDAR A1 (mapping/obstacle detection) |
+| Ultrasonic sensors | 4-8 | HC-SR04 (close-range obstacle detection) |
+| Fasteners | 1 set | Assorted M3/M4 screws + standoffs |

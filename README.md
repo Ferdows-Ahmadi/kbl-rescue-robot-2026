@@ -1,11 +1,12 @@
 # KBL Rescue - TS-900 Tracked Rescue Robot (2026)
 
-![KBL Rescue Banner](media/banner-placeholder.png)
+![KBL Rescue Banner](media/banner.png)
 > Open-source, educational tracked rescue robot for disaster-response scenarios and student competitions.
 
 ## KBL Rescue Team
 ![KBL Rescue Team](media/team-photo.jpg)
-Left to right: [Name], [Name], [Name], working on the TS-900 tracked rescue robot.
+Left to right: Shabiruddin Omar, Ahmad Ferdows Ahmadi, Milad Akhtari, working on the TS-900 tracked rescue robot.
+Team photo is a real image lightly AI-polished.
 KBL Rescue is a small independent student robotics team led by Ahmad Ferdows Ahmadi (computer science student).
 We build a tracked rescue robot based on the SZDoit TS-900 chassis for rough terrain and collapsed-structure simulations.
 
@@ -30,7 +31,7 @@ Why we chose it:
 - Compatible with Arduino/Raspberry Pi integration
 
 Common variant specs (verify and update with measured values):
-- Dimensions: ~550 x 280 x 110 mm (L x W x H) [Update with measured dimensions]
+- Dimensions: ~550 x 280 x 110 mm (L x W x H) estimated from listings
 - Weight: ~3.6-5.15 lbs (1.6-2.3 kg), listing-dependent
 - Load capacity: 5-15 kg (depends on motors, surface, and gearing)
 - Materials: metal frame (aluminum alloy/stainless steel), engineering plastic tracks
@@ -43,8 +44,8 @@ Why great for KBL Rescue:
 - High payload for sensors and batteries
 
 Example product listings (non-official):
-- AliExpress: https://www.aliexpress.com/i/1005008651115318.html (12V shock absorption version)
-- Amazon: https://us.amazon.com/SZDoit-Absorption-Suspension-Raspberry-Education/dp/B0BYR9LDPQ
+- AliExpress (selected chassis): https://www.aliexpress.com/item/1005008874710536.html?spm=a2g0n.detail.platformRecommendH5.14.4df1Yj0DYj0DCa&gps-id=platformRecommendH5&scm=1007.18499.315613.0&scm_id=1007.18499.315613.0&scm-url=1007.18499.315613.0&pvid=067ac331-ce4a-4e80-a66e-a2349d311c51&_t=gps-id:platformRecommendH5,scm-url:1007.18499.315613.0,pvid:067ac331-ce4a-4e80-a66e-a2349d311c51,tpp_buckets:668%232846%238116%232002&pdp_ext_f=%7B%22order%22%3A%22-1%22%2C%22eval%22%3A%221%22%2C%22sceneId%22%3A%228499%22%2C%22fromPage%22%3A%22recommend%22%7D&pdp_npi=6%40dis%21AFN%2129087.23%2120360.80%21%21%21445.32%21311.72%21%402141131717698038742837458e6b61%2112000047044687256%21rec%21AF%21%21ABX%211%210%21n_tag%3A-29910%3Bd%3A492b4b0d%3Bm03_new_user%3A-29895&utparam-url=scene%3AplatformRecommendH5
+- Amazon (similar listing): https://us.amazon.com/SZDoit-Absorption-Suspension-Raspberry-Education/dp/B0BYR9LDPQ
 
 ### Chassis Photo
 ![TS-900 Chassis](media/ts900-chassis.jpg)
@@ -82,7 +83,7 @@ Use these for inspiration and mechanical concepts:
 hardware/
   ts900-reference.md
   bom.md
-  wiring-diagram-placeholder.txt
+  wiring-diagram.txt
 src/
   arduino/arduino-sketch.ino
   python/main.py
@@ -99,7 +100,7 @@ Team and chassis photos are embedded above. Add more images to `media/` and upda
 
 ### Clone
 ```
-git clone https://github.com/[Your GitHub username]/kbl-rescue-robot-2026.git
+git clone https://github.com/Ferdows-Ahmadi/kbl-rescue-robot-2026.git
 cd kbl-rescue-robot-2026
 ```
 

@@ -1,0 +1,15 @@
+WIRING DIAGRAM (TEXT)
+
+Battery (4S LiPo 14.8V) -> Main fuse -> Power switch
+  |-> Motor drivers (x2) -> Left/Right motors
+  |-> Buck 12V -> LiDAR / 12V accessories
+  `-> Buck 5V  -> Raspberry Pi / Arduino / sensors
+
+Control:
+- Arduino (MCU) -> Motor drivers (PWM + direction)
+- Raspberry Pi -> Arduino (USB/UART) for high-level control
+- Sensors -> Pi/Arduino as appropriate
+
+Notes:
+- Add a common ground between all modules
+- Use separate fuses for high-current motor lines
