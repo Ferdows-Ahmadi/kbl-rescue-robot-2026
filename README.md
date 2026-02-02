@@ -49,7 +49,7 @@ Example product listings (non-official):
 
 ### Chassis Photo
 ![TS-900 Chassis](media/ts900-chassis.jpg)
-Our base platform: SZDoit TS-900 tracked chassis with shock absorption.
+Our base platform: TS-900 tracked chassis with shock absorption.
 
 
 ### Planned Custom Mods (Our Future STEP/STL)
