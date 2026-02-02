@@ -1,3 +1,5 @@
+This list reflects the minimum hardware required to complete early-stage prototyping and testing for RoboCup Rescue.
+
 | Item                                              | Qty   | Est. Price (USD) | Link            | Priority | Notes                                             |
 | ------------------------------------------------- | ----- | ---------------: | --------------- | -------- | ------------------------------------------------- |
 | TS-900 tracked chassis kit                        | 1     |              180 | AliExpress link | Must     | Commercial shock-absorbing tracked chassis        |
