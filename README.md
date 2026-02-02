@@ -1,11 +1,11 @@
 # KBL Rescue - TS-900 Tracked Rescue Robot (2026)
 
 ![KBL Rescue Banner](media/banner-placeholder.png)
-![TS-900 Chassis Overview](media/ts900-chassis.jpg)
 > Open-source, educational tracked rescue robot for disaster-response scenarios and student competitions.
 
-## Team
-![KBL Rescue Team](media/kbl%20team%20illustration.png)
+## KBL Rescue Team
+![KBL Rescue Team](media/team-photo.jpg)
+Left to right: [Name], [Name], [Name], working on the TS-900 tracked rescue robot.
 KBL Rescue is a small independent student robotics team led by Ahmad Ferdows Ahmadi (computer science student).
 We build a tracked rescue robot based on the SZDoit TS-900 chassis for rough terrain and collapsed-structure simulations.
 
@@ -31,8 +31,8 @@ Why we chose it:
 
 Common variant specs (verify and update with measured values):
 - Dimensions: ~550 x 280 x 110 mm (L x W x H) [Update with measured dimensions]
-- Weight: ~3.6–5.15 lbs (1.6–2.3 kg), listing-dependent
-- Load capacity: 5–15 kg (depends on motors, surface, and gearing)
+- Weight: ~3.6-5.15 lbs (1.6-2.3 kg), listing-dependent
+- Load capacity: 5-15 kg (depends on motors, surface, and gearing)
 - Materials: metal frame (aluminum alloy/stainless steel), engineering plastic tracks
 - Suspension: independent shock-absorbing suspension on each wheel
 - Motors: 4 x 12V DC high-torque with encoders (odometry feedback)
@@ -45,6 +45,10 @@ Why great for KBL Rescue:
 Example product listings (non-official):
 - AliExpress: https://www.aliexpress.com/i/1005008651115318.html (12V shock absorption version)
 - Amazon: https://us.amazon.com/SZDoit-Absorption-Suspension-Raspberry-Education/dp/B0BYR9LDPQ
+
+### Chassis Photo
+![TS-900 Chassis](media/ts900-chassis.jpg)
+Our base platform: SZDoit TS-900 tracked chassis with shock absorption.
 
 ### CAD/Blueprints
 No official CAD/STEP/STL files are publicly available from the manufacturer. Measure your exact kit for custom mods and we will create our own mounts, plates, and accessories.
@@ -89,7 +93,7 @@ media/
 ```
 
 ## Media
-Add real photos to `media/` and update the README image paths above as needed.
+Team and chassis photos are embedded above. Add more images to `media/` and update paths as needed.
 
 ## Setup
 
@@ -120,9 +124,9 @@ This project is open-source and educational (non-commercial). We are open to har
 Special thanks to GitHub Education for supporting student teams. We use Copilot Pro via the Student Developer Pack for code assistance.
 
 ## Seeking Support
-As a student team with limited budget, we are open to hardware donations or discounts (sensors, motors, controllers).
-In exchange, we will feature your logo/credits in documentation, presentations, competition videos, and social media.
-Contact: ahmadferdowsahmadi@gmail.com
+- Hardware donations or discounts (sensors, motors, controllers)
+- We feature your logo/credits in documentation, presentations, competition videos, and social media
+- Contact: ahmadferdowsahmadi@gmail.com
 
 ## License
 MIT License. See `LICENSE`.

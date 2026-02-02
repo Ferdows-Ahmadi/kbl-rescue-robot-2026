@@ -7,8 +7,8 @@ Update every value once you measure your chassis.
 - Model: SZDoit TS-900 shock-absorbing tracked chassis
 - Dimensions: ~550 x 280 x 110 mm (L x W x H) [Update with measured dimensions]
 - Verified from our kit: [Add your measured dimensions here]
-- Weight: ~3.6–5.15 lbs (1.6–2.3 kg), listing-dependent
-- Load capacity: 5–15 kg (depends on motors, surface, and gearing)
+- Weight: ~3.6-5.15 lbs (1.6-2.3 kg), listing-dependent
+- Load capacity: 5-15 kg (depends on motors, surface, and gearing)
 - Frame: metal (aluminum alloy/stainless steel)
 - Tracks: engineering plastic
 - Suspension: independent shock-absorbing suspension on each wheel

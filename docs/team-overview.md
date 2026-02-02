@@ -3,6 +3,11 @@
 Team: KBL Rescue
 Lead: Ahmad Ferdows Ahmadi (Computer Science student)
 
+Members (add short bios as you finalize):
+- Ahmad Ferdows Ahmadi — Team Lead, Software/Controls [Add short bio]
+- [Name] — Mechanical/Chassis [Add short bio]
+- [Name] — Electronics/Power [Add short bio]
+
 Competitions:
 - RoboCup Rescue Robot League 2026 (Incheon, South Korea)
 - TEKNOFEST Turkey
