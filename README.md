@@ -1,6 +1,7 @@
 # KBL Rescue - TS-900 Tracked Rescue Robot (2026)
 
 ![KBL Rescue Banner](media/banner-placeholder.png)
+![TS-900 Chassis Overview](media/ts900-chassis.jpg)
 > Open-source, educational tracked rescue robot for disaster-response scenarios and student competitions.
 
 ## Team
@@ -55,7 +56,7 @@ Use these for inspiration and mechanical concepts:
 - GrabCAD tank track model: https://grabcad.com/library/tank-track-2
 - GrabCAD tracked tread assembly tutorial: https://grabcad.com/tutorials/robotic-tank-tread-assembly-fusion-360-tutorial-tracked-robot-part-2
 - Sketchfab tracked robot example: https://sketchfab.com/3d-models/builder-tracked-robot-171a8ad07bc74f67af520ac8c67ae06f
-- Printables.com RC Tracked Robot by Floppy Lab: https://www.printables.com/model/583146-rc-tracked-robot (STL/STEP/3MF + code/schematics)
+- Printables.com RC Tracked Robot by Floppy Lab: https://www.printables.com/model/583146-rc-tracked-robot (includes STL/STEP/3MF files, Arduino code, and schematics for reference)
 
 ## Software Status
 | Subsystem | Stack | Status |
@@ -81,8 +82,7 @@ media/
 ```
 
 ## Media
-![TS-900 Chassis](media/ts900-unassembled.jpg)
-Add the image file above to `media/` once you upload real photos.
+Add real photos to `media/` and update the README image paths above as needed.
 
 ## Setup
 
@@ -112,9 +112,9 @@ See `CONTRIBUTING.md` for guidelines.
 This project is open-source and educational (non-commercial). We are open to hardware/electronics sponsorships and in-kind support.
 Special thanks to GitHub Education for supporting student teams. We use Copilot Pro via the Student Developer Pack for code assistance.
 
-## Seeking Hardware Support
-We are open to partnerships with electronics/hardware companies (e.g., sensors, motors, controllers).
-In return, we offer prominent credits in README, presentations, competition videos, and social media.
+## Seeking Support
+As a student team with limited budget, we are open to hardware donations or discounts (sensors, motors, controllers).
+In exchange, we will feature your logo/credits in documentation, presentations, competition videos, and social media.
 Contact: ahmadferdowsahmadi@gmail.com
 
 ## License

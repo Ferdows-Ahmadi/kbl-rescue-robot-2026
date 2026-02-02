@@ -9,5 +9,9 @@
 | Compute board | 1 | Raspberry Pi / Jetson / TBD |
 | Battery | 1 | 3S/4S LiPo + BMS (TBD) |
 | Power distribution | 1 | Fused power board or buck converters |
-| Sensors | TBD | Camera, LiDAR, IMU, thermal, ultrasonic |
+| IMU (9-axis) | 1 | For attitude estimation (TBD model) |
+| Thermal camera | 1 | Victim detection (TBD model) |
+| RGB camera | 1 | Operator view / perception (TBD model) |
+| LiDAR | 1 | Mapping and obstacle detection (TBD model) |
+| Ultrasonic sensors | 4-8 | Close-range obstacle detection |
 | Fasteners | TBD | M3/M4 assorted |

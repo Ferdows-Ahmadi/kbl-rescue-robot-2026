@@ -1,4 +1,6 @@
 # Placeholder Python dependencies (edit as needed)
 pyserial
 numpy
-opencv-python
+opencv-python==4.9.0
+# ROS 2 Python client is installed via the ROS distro (not pip)
+# rclpy

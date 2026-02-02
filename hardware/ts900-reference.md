@@ -6,6 +6,7 @@ Update every value once you measure your chassis.
 ## Chassis Summary (Placeholder)
 - Model: SZDoit TS-900 shock-absorbing tracked chassis
 - Approx size: 550 x 280 x 110 mm [Update with measured dimensions]
+- Verified from our kit: [Add your measured dimensions here]
 - Approx weight: 3.6 kg (listing-dependent)
 - Approx design load: 5 kg (listing-dependent)
 - Frame: aluminum alloy
@@ -22,7 +23,7 @@ Update every value once you measure your chassis.
 - https://grabcad.com/library/tank-track-2
 - https://grabcad.com/tutorials/robotic-tank-tread-assembly-fusion-360-tutorial-tracked-robot-part-2
 - https://sketchfab.com/3d-models/builder-tracked-robot-171a8ad07bc74f67af520ac8c67ae06f
-- https://www.printables.com/model/583146-rc-tracked-robot (Printables.com RC Tracked Robot by Floppy Lab; STL/STEP/3MF + code/schematics)
+- https://www.printables.com/model/583146-rc-tracked-robot (Printables.com RC Tracked Robot by Floppy Lab; includes STL/STEP/3MF files, Arduino code, and schematics for reference)
 
 ## Planned Custom Mods (Our Future STEP/STL)
 - Sensor mast and camera/LiDAR mounts
