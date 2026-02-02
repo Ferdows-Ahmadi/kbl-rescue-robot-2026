@@ -71,8 +71,8 @@ Use these for inspiration and mechanical concepts:
 ## Software Status
 | Subsystem | Stack | Status |
 | --- | --- | --- |
-| Low-level motor control | Arduino/C++ | Placeholder |
-| High-level autonomy | Python | Placeholder |
+| Low-level motor control | Arduino/C++ | Planned |
+| High-level autonomy | Python | Planned |
 | Robotics middleware | ROS 2 | Planned |
 | Perception | OpenCV + sensors | Planned |
 
