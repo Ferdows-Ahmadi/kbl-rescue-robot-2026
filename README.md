@@ -65,10 +65,10 @@ Use these for inspiration and mechanical concepts:
 ## Software Status
 | Subsystem | Stack | Status |
 | --- | --- | --- |
-| Low-level motor control | Arduino/C++ | Planned |
-| High-level autonomy | Python | Planned |
-| Robotics middleware | ROS 2 | Planned |
-| Perception | OpenCV + sensors | Planned |
+| Low-level motor control | Arduino/C++ | On-going |
+| High-level autonomy | Python | On-going |
+| Robotics middleware | ROS 2 | Ready |
+| Perception | OpenCV + sensors | Ready |
 
 ## Roadmap
 - Phase 1: Chassis bring-up, motor control, basic telemetry
