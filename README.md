@@ -6,7 +6,6 @@
 ## KBL Rescue Team
 ![KBL Rescue Team](media/team-photo.jpg)
 Left to right: Shabiruddin Omar, Ahmad Ferdows Ahmadi, Milad Akhtari, working on the TS-900 tracked rescue robot.
-Team photo is a real photo with light AI-based cleanup for clarity.
 KBL Rescue is a small independent student robotics team led by Ahmad Ferdows Ahmadi (computer science student).
 We build a tracked rescue robot based on the TS-900 chassis for rough terrain and collapsed-structure simulations.
 
