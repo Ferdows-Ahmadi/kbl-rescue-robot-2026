@@ -1,6 +1,5 @@
 /*
   KBL Rescue - TS-900 Robot
-  Placeholder Arduino sketch
 */
 
 const int LEFT_PWM = 5;
@@ -17,8 +16,7 @@ void setup() {
 }
 
 void loop() {
-  // TODO: replace with real motor control logic
-  // Example: stop
+
   analogWrite(LEFT_PWM, 0);
   analogWrite(RIGHT_PWM, 0);
   delay(100);
