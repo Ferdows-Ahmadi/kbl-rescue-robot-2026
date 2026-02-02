@@ -1,3 +1,4 @@
+![GitHub Student Developer Pack](https://img.shields.io/badge/GitHub-Student%20Developer%20Pack-blue)
 # KBL Rescue - TS-900 Tracked Rescue Robot (2026)
 
 ![KBL Rescue Banner](media/banner.png)
