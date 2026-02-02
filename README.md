@@ -6,9 +6,9 @@
 ## KBL Rescue Team
 ![KBL Rescue Team](media/team-photo.jpg)
 Left to right: Shabiruddin Omar, Ahmad Ferdows Ahmadi, Milad Akhtari, working on the TS-900 tracked rescue robot.
-Team photo is a real image lightly AI-polished.
+Team photo is a real image depicted by AI.
 KBL Rescue is a small independent student robotics team led by Ahmad Ferdows Ahmadi (computer science student).
-We build a tracked rescue robot based on the SZDoit TS-900 chassis for rough terrain and collapsed-structure simulations.
+We build a tracked rescue robot based on the TS-900 chassis for rough terrain and collapsed-structure simulations.
 
 ## Competitions
 - RoboCup Rescue Robot League 2026 (Incheon, South Korea)
@@ -24,22 +24,22 @@ We build a tracked rescue robot based on the SZDoit TS-900 chassis for rough ter
 
 ## Hardware
 
-### Base Chassis: SZDoit TS-900 (Commercial)
+### Base Chassis: TS-900 (Commercial)
 Why we chose it:
 - Shock-absorbing tracked suspension for rough terrain
 - Metal frame for durability and payload capacity
 - Compatible with Arduino/Raspberry Pi integration
 
-Common variant specs (verify and update with measured values):
-- Dimensions: ~550 x 280 x 110 mm (L x W x H) estimated from listings
-- Weight: ~3.6-5.15 lbs (1.6-2.3 kg), listing-dependent
-- Load capacity: 5-15 kg (depends on motors, surface, and gearing)
+Common variant specs:
+- Dimensions: 550 x 280 x 110 mm (L x W x H)
+- Weight: 3.6-5.15 lbs (1.6-2.3 kg), listing-dependent
+- Load capacity: 5-15 kg
 - Materials: metal frame (aluminum alloy/stainless steel), engineering plastic tracks
 - Suspension: independent shock-absorbing suspension on each wheel
-- Motors: 4 x 12V DC high-torque with encoders (odometry feedback)
+- Motors: 4 x 12V DC high-torque with encoders
 
 Why great for KBL Rescue:
-- Excellent for rough terrain (RoboCup-style collapsed-structure simulations)
+- Excellent for rough terrain
 - Easy Arduino/Raspberry Pi integration
 - High payload for sensors and batteries
 
@@ -51,8 +51,6 @@ Example product listings (non-official):
 ![TS-900 Chassis](media/ts900-chassis.jpg)
 Our base platform: SZDoit TS-900 tracked chassis with shock absorption.
 
-### CAD/Blueprints
-No official CAD/STEP/STL files are publicly available from the manufacturer. Measure your exact kit for custom mods and we will create our own mounts, plates, and accessories.
 
 ### Planned Custom Mods (Our Future STEP/STL)
 - Sensor mast and camera/LiDAR mounts
@@ -94,7 +92,7 @@ media/
 ```
 
 ## Media
-Team and chassis photos are embedded above. Add more images to `media/` and update paths as needed.
+Team and chassis photos are embedded above.
 
 ## Setup
 
@@ -104,7 +102,7 @@ git clone https://github.com/Ferdows-Ahmadi/kbl-rescue-robot-2026.git
 cd kbl-rescue-robot-2026
 ```
 
-### Python (if used)
+### Python
 ```
 python -m venv .venv
 .venv\Scripts\activate
@@ -112,9 +110,6 @@ pip install -r requirements.txt
 ```
 
 ### Arduino
-- Open `src/arduino/arduino-sketch.ino` in Arduino IDE
-- Select board and port
-- Upload
 
 ## Contributing
 We welcome contributions from students, mentors, and the community.
