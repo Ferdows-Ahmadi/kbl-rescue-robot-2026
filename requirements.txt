@@ -1,0 +1,4 @@
+# Placeholder Python dependencies (edit as needed)
+pyserial
+numpy
+opencv-python

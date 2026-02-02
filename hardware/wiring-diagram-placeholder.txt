@@ -1,0 +1,9 @@
+WIRING DIAGRAM PLACEHOLDER
+
+Add a diagram here (Fritzing, draw.io, KiCad, or SVG).
+Minimum connections to include:
+- Battery -> power distribution
+- Power distribution -> motor drivers
+- Motor drivers -> motors
+- Microcontroller -> motor drivers (PWM + direction)
+- Sensors -> microcontroller / compute board

@@ -1,0 +1,52 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and temp
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.cache
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.coverage
+.tox/
+.ipynb_checkpoints/
+
+# Build artifacts
+build/
+dist/
+out/
+bin/
+
+# Arduino / Embedded
+*.elf
+*.hex
+*.bin
+*.map
+*.o
+*.a
+*.d
+*.lst
+*.eeprom
+.pio/
+
+# IDEs
+.idea/
+.vscode/
+*.code-workspace
+
+# CAD/EDA exports (optional)
+*.step~
+*.stp~
+*.f3d~
