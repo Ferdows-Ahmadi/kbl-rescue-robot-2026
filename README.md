@@ -6,13 +6,15 @@
 ## KBL Rescue Team
 ![KBL Rescue Team](media/team-photo.jpg)
 Left to right: Shabiruddin Omar, Ahmad Ferdows Ahmadi, Milad Akhtari, working on the TS-900 tracked rescue robot.
+Team photo is a real photo with light AI-based cleanup for clarity.
 KBL Rescue is a small independent student robotics team led by Ahmad Ferdows Ahmadi (computer science student).
 We build a tracked rescue robot based on the TS-900 chassis for rough terrain and collapsed-structure simulations.
 
-## Competitions
-- RoboCup Rescue Robot League 2026 (Incheon, South Korea)
-- TEKNOFEST Turkey
-- TAC Challenge Norway
+## Target Competitions / Planned Participation
+Our team is preparing this platform with the goal of participating in the following competitions:
+- RoboCup Rescue Robot League 2026
+- TEKNOFEST
+- TAC Challenge
 - RoboNation
 
 ## Project Goals
@@ -29,16 +31,10 @@ Why we chose it:
 - Metal frame for durability and payload capacity
 - Compatible with Arduino/Raspberry Pi integration
 
-Common variant specs:
-- Dimensions: 550 x 280 x 110 mm (L x W x H)
-- Weight: 3.6-5.15 lbs (1.6-2.3 kg), listing-dependent
-- Load capacity: 5-15 kg
-- Materials: metal frame (aluminum alloy/stainless steel), engineering plastic tracks
-- Suspension: independent shock-absorbing suspension on each wheel
-- Motors: 4 x 12V DC high-torque with encoders
+Commercial TS-900 tracked chassis (specs vary by listing; see `hardware/ts900-reference.md`).
 
-Why great for KBL Rescue:
-- Excellent for rough terrain
+Why it fits this project:
+- Suitable for rough terrain
 - Easy Arduino/Raspberry Pi integration
 - High payload for sensors and batteries
 
@@ -74,6 +70,14 @@ Use these for inspiration and mechanical concepts:
 | High-level autonomy | Python | Planned |
 | Robotics middleware | ROS 2 | Planned |
 | Perception | OpenCV + sensors | Planned |
+
+## Roadmap
+- Phase 1: Chassis bring-up, motor control, basic telemetry
+- Phase 2: Power system stabilization and sensor integration
+- Phase 3: Sensor calibration and data logging (IMU, encoders, ultrasonic)
+- Phase 4: Perception stack (thermal/RGB) and basic detection pipelines
+- Phase 5: ROS 2 integration and basic SLAM
+- Phase 6: Field testing, reliability fixes, and competition tuning
 
 ## Repository Structure
 ```

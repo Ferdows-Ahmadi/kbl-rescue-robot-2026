@@ -1,17 +1,15 @@
-# Bill of Materials (Draft)
+# Bill of Materials (Sponsor-Ready)
 
-| Part | Quantity | Notes |
-| --- | --- | --- |
-| TS-900 tracked chassis kit | 1 | TS-900 (shock-absorbing) |
-| DC motors with encoders | 4 |
-| Motor driver | 2 | BTS7960 43A H-bridge motor driver |
-| Microcontroller | 1 | Arduino Mega 2560 (motor control) |
-| Compute board | 1 | Raspberry Pi 5 (8GB) |
-| Battery | 1 | 4S LiPo 14.8V 10Ah + BMS |
-| Power distribution | 1 | Fused power board or buck converters |
-| IMU (9-axis) | 1 | ICM-20948 (attitude estimation) |
-| Thermal camera | 1 | MLX90640 (victim detection) |
-| RGB camera | 1 | Raspberry Pi Camera Module 3 |
-| LiDAR | 1 | RPLIDAR A1 (mapping/obstacle detection) |
-| Ultrasonic sensors | 4-8 | HC-SR04 (close-range obstacle detection) |
-| Fasteners | 1 set | Assorted M3/M4 screws + standoffs |
+| Item | Quantity | Estimated Price (USD) | Link (if available) | Priority | Notes |
+| --- | --- | --- | --- | --- | --- |
+| TS-900 tracked chassis kit | 1 | 180 | https://www.aliexpress.com/item/1005008874710536.html | Must | Shock-absorbing tracked chassis |
+| DC motors with encoders | 4 | 0 | N/A | Must | Typically included with chassis kit |
+| Motor driver (BTS7960 43A) | 2 | 24 | N/A | Must | High-current H-bridge for tracked drive |
+| Microcontroller (Arduino Mega 2560) | 1 | 18 | N/A | Must | Motor control and low-level IO |
+| Power distribution + fuses | 1 | 15 | N/A | Must | Main power protection and splitting |
+| DC-DC buck converter 12V->5V (5A) | 1 | 10 | N/A | Must | Regulated 5V for electronics |
+| IMU (ICM-20948) | 1 | 15 | N/A | Should | Attitude estimation |
+| Ultrasonic sensors (HC-SR04) | 4 | 12 | N/A | Should | Close-range obstacle detection |
+| RGB camera (USB) | 1 | 15 | N/A | Nice | Operator view and basic perception |
+| Wiring/connectors/heatshrink | 1 set | 12 | N/A | Must | Assembly and serviceability |
+| Fasteners + standoffs | 1 set | 10 | N/A | Must | M3/M4 mounting hardware |
