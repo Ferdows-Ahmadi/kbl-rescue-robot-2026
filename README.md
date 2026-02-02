@@ -55,7 +55,7 @@ Use these for inspiration and mechanical concepts:
 - GrabCAD tank track model: https://grabcad.com/library/tank-track-2
 - GrabCAD tracked tread assembly tutorial: https://grabcad.com/tutorials/robotic-tank-tread-assembly-fusion-360-tutorial-tracked-robot-part-2
 - Sketchfab tracked robot example: https://sketchfab.com/3d-models/builder-tracked-robot-171a8ad07bc74f67af520ac8c67ae06f
-- Printables RC tracked robot by Floppy Lab: [Add Printables link]
+- Printables.com RC Tracked Robot by Floppy Lab: https://www.printables.com/model/583146-rc-tracked-robot (STL/STEP/3MF + code/schematics)
 
 ## Software Status
 | Subsystem | Stack | Status |
@@ -79,6 +79,10 @@ docs/
 media/
   README.md
 ```
+
+## Media
+![TS-900 Chassis](media/ts900-unassembled.jpg)
+Add the image file above to `media/` once you upload real photos.
 
 ## Setup
 
@@ -106,7 +110,12 @@ See `CONTRIBUTING.md` for guidelines.
 
 ## Sponsors and Acknowledgments
 This project is open-source and educational (non-commercial). We are open to hardware/electronics sponsorships and in-kind support.
-Special thanks to GitHub Education for supporting student teams.
+Special thanks to GitHub Education for supporting student teams. We use Copilot Pro via the Student Developer Pack for code assistance.
+
+## Seeking Hardware Support
+We are open to partnerships with electronics/hardware companies (e.g., sensors, motors, controllers).
+In return, we offer prominent credits in README, presentations, competition videos, and social media.
+Contact: ahmadferdowsahmadi@gmail.com
 
 ## License
 MIT License. See `LICENSE`.

@@ -22,7 +22,7 @@ Update every value once you measure your chassis.
 - https://grabcad.com/library/tank-track-2
 - https://grabcad.com/tutorials/robotic-tank-tread-assembly-fusion-360-tutorial-tracked-robot-part-2
 - https://sketchfab.com/3d-models/builder-tracked-robot-171a8ad07bc74f67af520ac8c67ae06f
-- [Add Printables RC tracked robot by Floppy Lab link]
+- https://www.printables.com/model/583146-rc-tracked-robot (Printables.com RC Tracked Robot by Floppy Lab; STL/STEP/3MF + code/schematics)
 
 ## Planned Custom Mods (Our Future STEP/STL)
 - Sensor mast and camera/LiDAR mounts
