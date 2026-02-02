@@ -1,4 +1,4 @@
-# Placeholder Python dependencies (edit as needed)
+
 pyserial
 numpy
 opencv-python==4.9.0
