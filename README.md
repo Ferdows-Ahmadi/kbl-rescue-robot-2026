@@ -6,7 +6,7 @@
 
 ## KBL Rescue Team
 ![KBL Rescue Team](media/teknofest-2025/photos/02-team-with-trophy.jpg)
-Left to right: Ahmad Ferdows Ahmadi, Shabiruddin Omar, Milad Akhtari. The team prepared a Technology for the Humanity project document for TEKNOFEST 2025.<br>
+Left to right: Ahmad Ferdows Ahmadi, Shabiruddin Omar, Milad Akhtari, TEKNOFEST 2025.<br>
 KBL Rescue is a small independent student robotics team led by Ahmad Ferdows Ahmadi (computer science student).
 We build a tracked rescue robot based on the TS-900 chassis for rough terrain and collapsed-structure simulations.
 
