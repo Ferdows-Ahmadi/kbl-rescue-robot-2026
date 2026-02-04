@@ -33,8 +33,7 @@ Why we chose it:
 - Metal frame for durability and payload capacity
 - Compatible with Arduino/Raspberry Pi integration
 
-Commercial TS-900 tracked chassis (specs vary by listing; see `hardware/ts900-reference.md`).
-![Components and prototyping](media/teknofest-2025/photos/05-components-and-prototyping.jpg)
+
 Why it fits this project:
 - Suitable for rough terrain
 - Easy Arduino/Raspberry Pi integration
